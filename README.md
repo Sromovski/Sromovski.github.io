@@ -1,0 +1,1 @@
+Site root for sromovski.github.io. It forwards to https://sromovski.github.io/LaunchPad/ and holds the Google Search Console verification file for the Launchpad uploader (Blast of Facts YouTube channel).
